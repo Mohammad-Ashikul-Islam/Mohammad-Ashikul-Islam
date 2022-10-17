@@ -1,6 +1,6 @@
+![Software Developer](https://media-exp1.licdn.com/dms/image/D4D16AQEqYSckERZn3g/profile-displaybackgroundimage-shrink_350_1400/0/1666009855478?e=1671667200&v=beta&t=An2inyy_0MgTgk_APwqI-65f9Yc6aejFD9r9F4-7F00)
 ### Hello, I'm Mohammad Ashikul Islam
 #### Software Developer
-![Software Developer](https://media-exp1.licdn.com/dms/image/D4D16AQEqYSckERZn3g/profile-displaybackgroundimage-shrink_350_1400/0/1666009855478?e=1671667200&v=beta&t=An2inyy_0MgTgk_APwqI-65f9Yc6aejFD9r9F4-7F00)
 
 I am a fourth-year B.Sc. Computer Science & Engineering undergraduate student. I'm a passionate Web Developer with a hardworking mindset and determined to enrich my knowledge in this sector further with my dedication. I'm responsible, rational, prudent and self-dependent and also I believe in learning from mistake. I can work efficiently as an individual and also with a team. I'm never scared to take new challenges and deal with them
 
