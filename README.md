@@ -13,11 +13,11 @@ I am a fourth-year B.Sc. Computer Science & Engineering undergraduate student. I
 <h3 align="left">Connect with me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohammad-Ashikul-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdashikul2222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashikul2222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashikul-islam.netlify.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discover.svg' alt='discover' height='40'>](https://www.stopstalk.com/user/profile/Mohammad_Ashikul_Islam)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad-Ashikul-Islam)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ashikul-Islam)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ashikul-Islam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ashikul-Islam&theme=radical&hide_border=false)<br/> 
+![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ashikul-Islam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
