@@ -31,7 +31,7 @@ I am a fourth-year B.Sc. Computer Science & Engineering undergraduate student. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ashikul-Islam)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 GitHub Stats:
+## GitHub Stats📊
 ![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ashikul-Islam&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ashikul-Islam&theme=radical&hide_border=false)<br/> 
 ![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ashikul-Islam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
