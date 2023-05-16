@@ -24,7 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  
-## Connect Me
+## Connect Me🤙
 <div align="center">
 <a href="https://www.facebook.com/ashikul2222" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -39,10 +39,16 @@
 
 
 ## GitHub Stats📊
-![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ashikul-Islam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ashikul-Islam&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ashikul-Islam&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ashikul-Islam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Mohammad-ashikul-islam&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-ashikul-islam&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-ashikul-islam&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## GitHub Trophies🏆
+![](https://github-profile-trophy.vercel.app/?username=Mohammad-ashikul-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohammad-ashikul-islam&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## Random Dev Quote✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
