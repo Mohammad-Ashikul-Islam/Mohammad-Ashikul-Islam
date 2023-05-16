@@ -33,12 +33,6 @@
 <a href="https://linkedin.com/in/mdashikul2222" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://ashikul-islam.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.stopstalk.com/user/profile/Mohammad_Ashikul_Islam" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/Mohammad-Ashikul-Islam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -46,9 +40,9 @@
 
 
 ## GitHub Stats📊
-![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ashikul-Islam&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ashikul-Islam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ashikul-Islam&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ashikul-Islam&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ashikul-Islam&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ashikul-Islam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Random Dev Quote✍️
