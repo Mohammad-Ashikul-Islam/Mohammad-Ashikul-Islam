@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammad Ashikul Islam !
 
-<b> a freshly graduated CSE student from International Islamic University Chittagong. I'm a passionate Web Developer with a hardworking mindset and determined to enrich my knowledge in this sector further with my dedication. I'm responsible, rational, prudent and self-dependent and also I believe in learning from mistake. I can work efficiently as an individual and also with a team. I'm never scared to take new challenges and deal with them <b>
+ a freshly graduated CSE student from International Islamic University Chittagong. I'm a passionate Web Developer with a hardworking mindset and determined to enrich my knowledge in this sector further with my dedication. I'm responsible, rational, prudent and self-dependent and also I believe in learning from mistake. I can work efficiently as an individual and also with a team. I'm never scared to take new challenges and deal with them
 
 
 ## Languages and Tools💻
@@ -44,7 +44,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-ashikul-islam&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies🏆
-![](https://github-profile-trophy.vercel.app/?username=Mohammad-ashikul-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mohammad-ashikul-islam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammad-ashikul-islam&icon=0&color=0)](https://visitcount.itsvg.in)
