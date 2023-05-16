@@ -48,4 +48,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## Random Dev Meme😊
-<img src=" https://dynamic-badges.maxalpha.repl.co/meme" width="512px"/>
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
