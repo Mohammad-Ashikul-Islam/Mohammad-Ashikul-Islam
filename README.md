@@ -1,57 +1,55 @@
-### Hi there, I'm Mohammad Ashikul Islam !
+# Hi👋, I'm Mohammad Ashikul Islam 
 
- a freshly graduated CSE student from International Islamic University Chittagong. I'm a passionate Web Developer with a hardworking mindset and determined to enrich my knowledge in this sector further with my dedication. I'm responsible, rational, prudent and self-dependent and also I believe in learning from mistake. I can work efficiently as an individual and also with a team. I'm never scared to take new challenges and deal with them
+I'm a **Software Engineer** with professional experience in building scalable, maintainable, and secure web applications and enterprise systems.  
+I specialize in full-stack development, with strong backend expertise, modular architecture, security best practices, and frontend proficiency.  
+I am also an avid problem solver and competitive programmer, with experience across multiple platforms.  
 
+You can explore my work or connect with me:
 
-## Languages and Tools💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
- 
-## Connect Me🤙
 <div align="center">
-<a href="https://www.facebook.com/ashikul2222" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://ashikul-islam.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23007bff.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin: 3px;" />
+</a>
+<a href="https://github.com/asis-wtag" target="_blank" title="Professional Work Repositories">
+<img src="https://img.shields.io/badge/Work_GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" style="margin: 3px;" />
 </a>
 <a href="https://linkedin.com/in/mdashikul2222" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 3px;" />
 </a>
-<a href="https://github.com/Mohammad-Ashikul-Islam" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<a href="https://www.facebook.com/mdashikul2222" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 3px;" />
+</a>
+<a href="https://x.com/mdashikul2222" target="_blank">
+<img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" style="margin: 3px;" />
+</a>
+<a href="mailto:mdashikul2222@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 3px;" />
+</a>
+</div>
 
 
-## GitHub Stats📊
-![](https://github-readme-stats.vercel.app/api?username=Mohammad-ashikul-islam&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-ashikul-islam&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-ashikul-islam&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🛠 Tech Stack & Tools
 
-## GitHub Trophies🏆
-![](https://github-profile-trophy.vercel.app/?username=Mohammad-ashikul-islam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+<img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" style="margin:4px"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Sidekiq-%23CC0000.svg?style=for-the-badge" alt="Sidekiq" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Cancancan-%23007ACC.svg?style=for-the-badge" alt="Cancancan" style="margin:4px"/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Hotwire-%23000000.svg?style=for-the-badge" alt="Hotwire" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Stimulus-%232C8EBB.svg?style=for-the-badge" alt="Stimulus" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Axios-%23007ACC.svg?style=for-the-badge" alt="Axios" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Slim-%23CC0000.svg?style=for-the-badge" alt="Slim" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Capybara-%23000000.svg?style=for-the-badge" alt="Capybara" style="margin:4px"/>
+<img src="https://img.shields.io/badge/RSpec-%23CC0000.svg?style=for-the-badge" alt="RSpec" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:4px"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin:4px"/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:4px"/>
+<img src="https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge" alt="OOP" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Data_Structures-%234285F4.svg?style=for-the-badge" alt="Data Structures" style="margin:4px"/>
+<img src="https://img.shields.io/badge/Algorithms-%23F7DF1E.svg?style=for-the-badge" alt="Algorithms" style="margin:4px"/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohammad-ashikul-islam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## Random Dev Quote✍️
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-## Random Dev Meme😊
-<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
