@@ -1,8 +1,8 @@
 # Hi👋, I'm Mohammad Ashikul Islam 
 
-I'm a **Software Engineer** with professional experience in building scalable, maintainable, and secure web applications and enterprise systems.  
-I specialize in full-stack development, with strong backend expertise, modular architecture, security best practices, and frontend proficiency.  
-I am also an avid problem solver and competitive programmer, with experience across multiple platforms.  
+I'm a Software Engineer focused on building scalable, maintainable, and secure web applications.
+I specialize in full-stack development with strong backend expertise, modular architecture, and frontend skills.
+An avid problem solver and competitive programmer, I have experience across multiple platforms.
 
 You can explore my work or connect with me:
 
