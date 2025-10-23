@@ -11,7 +11,7 @@ With expertise in full-stack development, I blend technical precision with pract
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mdashikul2222@gmail.com)
 
 
-<img src="https://skillicons.dev/icons?i=rails,react,postgresql,redis,ruby,javascript,cpp,c,git,npm,css,html,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rails,react,postgresql,redis,ruby,javascript,cpp,c,nodejs,git,npm,css,html,linux&theme=dark" />
 
 
 ### 📊 GitHub Stats
